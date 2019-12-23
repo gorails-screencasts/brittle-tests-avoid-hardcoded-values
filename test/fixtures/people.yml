@@ -9,5 +9,5 @@ one:
 two:
   project: two
   name: Person Two
-  emais: two@example.com
+  email: two@example.com
   score: nil
