@@ -2,12 +2,12 @@
 
 one:
   project: one
-  name: MyString
-  email: MyString
+  name: Person One
+  email: one@example.com
   score: nil
 
 two:
   project: two
-  name: MyString
-  email: MyString
+  name: Person Two
+  emais: two@example.com
   score: nil
